@@ -5,3 +5,4 @@ Yellow
 Add Green by editing file
 Add Blue
 Colours of the Rainbow and the unicorn
+Indigo
